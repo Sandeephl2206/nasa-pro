@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server":"npm run watch --prefix server",
-    "client":"npm start --prefix client",
-    "watch":"npm run server & npm run client",
+    "server": "npm run watch --prefix server",
+    "client": "npm start --prefix client",
+    "watch": "npm run server & npm run client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Sandeephl2206/NASA-Practice-project/issues"
   },
-  "homepage": "https://github.com/Sandeephl2206/NASA-Practice-project#readme"
+  "homepage": "https://github.com/Sandeephl2206/NASA-Practice-project#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
 }
