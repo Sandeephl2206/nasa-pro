@@ -52,3 +52,50 @@ export {
   httpSubmitLaunch,
   httpAbortLaunch,
 };
+
+
+
+
+
+/*
+Jest 
+Cluster 
+Pm2
+Worker Thread
+Introduction to MongoDB
+SQl vs MongoDB
+Connection to MongoDb
+
+
+
+
+Date: 03/03/23
+
+InTime :- 12:00 AM
+OutTime :- 08:30 PM
+
+Name : Sandeep Lohar
+LearnTechnology : Node js
+
+Today's Learn / work Hours : 8 hours
+Total work Hours : 248 hours
+
+Today's work : 
+Jest 
+Cluster 
+Pm2
+Worker Thread
+Introduction to MongoDB
+SQl vs MongoDB
+Connection to MongoDb
+
+All Good.
+
+
+
+Project title - Realtime collabrative development system 
+Project Description -
+--> logger - 
+--> Join User - the logged user can edit the code 
+
+*/
